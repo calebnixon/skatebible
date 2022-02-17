@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+/* Navigation */
+
+.nav-container{
+    background: url(skatebible_logo_1.png);
+    height: 144px;
+    position: absolute;
+    width: 287px;
+    height: 144px;
+    left: 45px;
+    top: 34px;
+}
